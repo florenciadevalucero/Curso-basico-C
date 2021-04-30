@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>Curso programación en C</h1>
 </div>
@@ -2739,3 +2740,6 @@ argv[6] = b
 argv[7] = c
 
 
+=======
+# Curso-basico-C
+>>>>>>> 8085dbe4190acf700d0dcd09b8682f554135270c
